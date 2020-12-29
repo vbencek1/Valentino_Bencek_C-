@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DSAParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <P>xNeZRFzPdageFeJUKrTOxYEd2zWh4um1jhLYXa7GAECxXGkvQ3MeUCy8KSv7btXcPtxEC9qOpvGF6/D3xShbvpljG6pCWkS7teEFxc9fMl6nSKW1onjp4Zj5M32zpn+OfYNRDi990lr+moUWwPgKB+rCHV9q2H/xHMrLqbQuZ40=</P>
+  <Q>/sCl6Nl3HGaN7/3ngQEk4/uppXM=</Q>
+  <G>PM63cvg1f+mHZfJ7sO7ZiyYDrJQgKRLXxg3a1zBrKSZFSOvCqXMVBZjoqUulJMjhZk2UMjIXdPkWtA76x3rCLeC5iv12rRGbI3zIXkLHJPrKJWHIA4yU/biZquQ2Frgwpx+QpsZmkm8NWcF/Ijkk5/FVZLNh7FJQCL4RDemrr1E=</G>
+  <Y>OhkIC7GLzoGW9WU6cAfdwbGuk2DNC5bnpr4V6mb5yXYrRHxZvkcvd3F7hjTHUpy5hkfjVSrL2ZOHlRoDv36UK95PA1200+02X0aDC7VasSwlwZoe7ajQ5ifoNHxkkbm5xUJeIhbDH+54KcxNOowTe4ANLWsDl/DJUj6Ak/MXNbg=</Y>
+  <Seed>RcTMTT00Jl+U3Nha64j33LfSMRU=</Seed>
+  <Counter>832</Counter>
+</DSAParameters>

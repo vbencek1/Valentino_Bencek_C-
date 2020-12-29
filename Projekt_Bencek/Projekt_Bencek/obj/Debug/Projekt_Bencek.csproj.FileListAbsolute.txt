@@ -1,0 +1,10 @@
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\bin\Debug\Projekt_Bencek.exe.config
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\bin\Debug\Projekt_Bencek.exe
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\bin\Debug\Projekt_Bencek.pdb
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.csprojAssemblyReference.cache
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.Form1.resources
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.Properties.Resources.resources
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.csproj.GenerateResource.cache
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.exe
+C:\Users\Tino\Downloads\Desktop\Valentino_Bencek_C#\Projekt_Bencek\Projekt_Bencek\obj\Debug\Projekt_Bencek.pdb
